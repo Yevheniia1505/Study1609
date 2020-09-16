@@ -1,4 +1,6 @@
 def print_hello():
-    print("Hello!")
-for i in range(10):
+    print("Hi people!")
+
+
+for i in range(15):
     print_hello()
